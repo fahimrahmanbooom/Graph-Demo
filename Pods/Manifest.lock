@@ -1,0 +1,20 @@
+PODS:
+  - EFCountingLabel (5.1.1)
+  - SwiftChart (1.0.1)
+
+DEPENDENCIES:
+  - EFCountingLabel
+  - SwiftChart
+
+SPEC REPOS:
+  trunk:
+    - EFCountingLabel
+    - SwiftChart
+
+SPEC CHECKSUMS:
+  EFCountingLabel: 605358591a67a3c92feb7ec32486bfab4a30e2c9
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+
+PODFILE CHECKSUM: d9dcf7880e38f8ce933deaee64d0ed44f725332e
+
+COCOAPODS: 1.9.1
